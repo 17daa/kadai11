@@ -1,4 +1,9 @@
-div {
-    background-color: slategray;
+.page4 {
+    background-color: skyblue;
     color: white;
+}
+
+.page2{
+    background-color: black;
+    color: yellow;
 }
